@@ -1,0 +1,807 @@
+[
+    {
+        "date": 1,
+        "hash": "1869011737",
+        "name": "PakFiles.dat",
+        "path": "files/audio/CONFIG/",
+        "size": 156
+    },
+    {
+        "date": 6,
+        "hash": "4128655764",
+        "name": "SOUNDINF.DAT",
+        "path": "files/audio/CONFIG/",
+        "size": 6696
+    },
+    {
+        "date": 19,
+        "hash": "869536819",
+        "name": "vehicleAudioSettings.cfg",
+        "path": "files/audio/CONFIG/",
+        "size": 34820
+    },
+    {
+        "date": 2,
+        "hash": "2205816747",
+        "name": "BanksNum.dat",
+        "path": "files/audio/CONFIG/",
+        "size": 12
+    },
+    {
+        "date": 17,
+        "hash": "1436131087",
+        "name": "enginesfx.dat",
+        "path": "files/audio/CONFIG/",
+        "size": 2957
+    },
+    {
+        "date": 5,
+        "hash": "3649702895",
+        "name": "GENRL.osw",
+        "path": "files/audio/SFX/",
+        "size": 4504675
+    },
+    {
+        "date": 5,
+        "hash": "748397758",
+        "name": "GENRL.osw.idx",
+        "path": "files/audio/SFX/",
+        "size": 9112
+    },
+    {
+        "date": 2,
+        "hash": "2766396316",
+        "name": "VEHICLE.osw",
+        "path": "files/audio/SFX/",
+        "size": 58638957
+    },
+    {
+        "date": 2,
+        "hash": "2405022554",
+        "name": "VEHICLE.osw.idx",
+        "path": "files/audio/SFX/",
+        "size": 14194
+    },
+    {
+        "date": 1,
+        "hash": "2725244287",
+        "name": "FEET.osw",
+        "path": "files/audio/SFX/",
+        "size": 138118
+    },
+    {
+        "date": 2,
+        "hash": "279620547",
+        "name": "FEET.osw.idx",
+        "path": "files/audio/SFX/",
+        "size": 1258
+    },
+    {
+        "date": 1,
+        "hash": "2847662286",
+        "name": "vehicle_sound_alarm.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 16829
+    },
+    {
+        "date": 1,
+        "hash": "3680315395",
+        "name": "vehicle_sound_door.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 5614
+    },
+    {
+        "date": 1,
+        "hash": "515275194",
+        "name": "vehicle_sound_engine.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 14672
+    },
+    {
+        "date": 1,
+        "hash": "1383245692",
+        "name": "witch_death.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 41638
+    },
+    {
+        "date": 1,
+        "hash": "3055381914",
+        "name": "witch_laugh_1.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 22986
+    },
+    {
+        "date": 1,
+        "hash": "716592903",
+        "name": "witch_laugh_2.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 32081
+    },
+    {
+        "date": 1,
+        "hash": "3900685287",
+        "name": "witch_laugh_3.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 74817
+    },
+    {
+        "date": 1,
+        "hash": "716592903",
+        "name": "witch_laugh_4.mp3",
+        "path": "files/audio/audiostream/",
+        "size": 32081
+    },
+    {
+        "date": 5,
+        "hash": "3672758674",
+        "name": "br_common.zip",
+        "path": "files/models/",
+        "size": 31532
+    },
+    {
+        "date": 14,
+        "hash": "2713979507",
+        "name": "br_accessories_01.zip",
+        "path": "files/models/",
+        "size": 4619302
+    },
+    {
+        "date": 2,
+        "hash": "2335733148",
+        "name": "br_legacy_smp.zip",
+        "path": "files/models/",
+        "size": 35188385
+    },
+    {
+        "date": 20,
+        "hash": "1465353266",
+        "name": "br_skins_01.zip",
+        "path": "files/models/",
+        "size": 91509536
+    },
+    {
+        "date": 19,
+        "hash": "2747871765",
+        "name": "br_cars_01.zip",
+        "path": "files/models/",
+        "size": 243249128
+    },
+    {
+        "date": 14,
+        "hash": "191760903",
+        "name": "br_map_01.zip",
+        "path": "files/models/",
+        "size": 151784884
+    },
+    {
+        "date": 19,
+        "hash": "1076397316",
+        "name": "br_map_02.zip",
+        "path": "files/models/",
+        "size": 125384156
+    },
+    {
+        "date": 7,
+        "hash": "511353633",
+        "name": "br_anim.zip",
+        "path": "files/models/",
+        "size": 3445266
+    },
+    {
+        "date": 28,
+        "hash": "231138731",
+        "name": "br_collision.zip",
+        "path": "files/models/",
+        "size": 30218648
+    },
+    {
+        "date": 44,
+        "hash": "2483447045",
+        "name": "br_tex_mobile.astc.zip",
+        "path": "files/texdb/",
+        "size": 21727781
+    },
+    {
+        "date": 3,
+        "hash": "2277086064",
+        "name": "br_tex_txd.astc.zip",
+        "path": "files/texdb/",
+        "size": 4764036
+    },
+    {
+        "date": 1,
+        "hash": "1768776950",
+        "name": "br_tex_menu.astc.zip",
+        "path": "files/texdb/",
+        "size": 4406661
+    },
+    {
+        "date": 7,
+        "hash": "1237390730",
+        "name": "br_tex_gui.astc.zip",
+        "path": "files/texdb/",
+        "size": 23880542
+    },
+    {
+        "date": 4,
+        "hash": "2903314689",
+        "name": "br_tex_legacy_smp.astc.zip",
+        "path": "files/texdb/",
+        "size": 9606038
+    },
+    {
+        "date": 5,
+        "hash": "284291264",
+        "name": "br_tex_patent.astc.zip",
+        "path": "files/texdb/",
+        "size": 12559744
+    },
+    {
+        "date": 5,
+        "hash": "1096091006",
+        "name": "br_tex_LOD_01.astc.zip",
+        "path": "files/texdb/",
+        "size": 28972111
+    },
+    {
+        "date": 2,
+        "hash": "4072494083",
+        "name": "br_tex_main.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 2483627
+    },
+    {
+        "date": 6,
+        "hash": "3937826425",
+        "name": "br_tex_interiors.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 414068
+    },
+    {
+        "date": 5,
+        "hash": "2319060678",
+        "name": "br_tex_patent.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 105002
+    },
+    {
+        "date": 19,
+        "hash": "3036049130",
+        "name": "br_tex_skins_01.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 723741
+    },
+    {
+        "date": 5,
+        "hash": "4270004208",
+        "name": "br_tex_LOD_01.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 260305
+    },
+    {
+        "date": 7,
+        "hash": "4195216413",
+        "name": "br_tex_gui.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 229490
+    },
+    {
+        "date": 19,
+        "hash": "4006309382",
+        "name": "br_tex_cars_01.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 237240
+    },
+    {
+        "date": 1,
+        "hash": "1956102234",
+        "name": "br_tex_menu.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 12046
+    },
+    {
+        "date": 4,
+        "hash": "711380967",
+        "name": "br_tex_legacy_smp.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 267580
+    },
+    {
+        "date": 44,
+        "hash": "1678600807",
+        "name": "br_tex_mobile.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 358440
+    },
+    {
+        "date": 3,
+        "hash": "1026056108",
+        "name": "br_tex_txd.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 160311
+    },
+    {
+        "date": 3,
+        "hash": "198920392",
+        "name": "br_tex_generic.astc.zip",
+        "path": "files/texdb/",
+        "size": 646305
+    },
+    {
+        "date": 19,
+        "hash": "3548876524",
+        "name": "br_tex_cars_01.astc.zip",
+        "path": "files/texdb/",
+        "size": 22181276
+    },
+    {
+        "date": 3,
+        "hash": "1515959548",
+        "name": "br_tex_generic.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 24870
+    },
+    {
+        "date": 15,
+        "hash": "2622508681",
+        "name": "br_tex_01.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 2035366
+    },
+    {
+        "date": 6,
+        "hash": "1319124119",
+        "name": "br_tex_interiors.astc.zip",
+        "path": "files/texdb/",
+        "size": 132626425
+    },
+    {
+        "date": 19,
+        "hash": "324822465",
+        "name": "br_tex_skins_01.astc.zip",
+        "path": "files/texdb/",
+        "size": 128866727
+    },
+    {
+        "date": 15,
+        "hash": "2515973300",
+        "name": "br_tex_01.astc.zip",
+        "path": "files/texdb/",
+        "size": 204041438
+    },
+    {
+        "date": 2,
+        "hash": "715949538",
+        "name": "br_tex_main.astc.zip",
+        "path": "files/texdb/",
+        "size": 170820212
+    },
+    {
+        "date": 37,
+        "hash": "577782290",
+        "name": "data.zip",
+        "path": "files/",
+        "size": 3996375
+    },
+    {
+        "date": 79,
+        "hash": "4027176767",
+        "name": "launcher.apk",
+        "path": "",
+        "size": 102258972
+    },
+    {
+        "date": 13,
+        "hash": "547951161",
+        "name": "br_tex_acc_01.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 50802
+    },
+    {
+        "date": 13,
+        "hash": "1671345639",
+        "name": "br_tex_acc_01.astc.zip",
+        "path": "files/texdb/",
+        "size": 6727999
+    },
+    {
+        "date": 6,
+        "hash": "2869820969",
+        "name": "br_radarmap.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 40980
+    },
+    {
+        "date": 6,
+        "hash": "3834560438",
+        "name": "br_radarmap.astc.zip",
+        "path": "files/texdb/",
+        "size": 2331953
+    },
+    {
+        "date": 9,
+        "hash": "3181298515",
+        "name": "br_map_00.zip",
+        "path": "files/models/",
+        "size": 135545437
+    },
+    {
+        "date": 18,
+        "hash": "1085969853",
+        "name": "br_tex_cars_01.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 205347
+    },
+    {
+        "date": 6,
+        "hash": "1272346445",
+        "name": "br_radarmap.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 35149
+    },
+    {
+        "date": 40,
+        "hash": "3575896027",
+        "name": "br_tex_mobile.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 112325
+    },
+    {
+        "date": 1,
+        "hash": "3504866101",
+        "name": "br_tex_menu.etc2.zip",
+        "path": "files/texdb/",
+        "size": 3291479
+    },
+    {
+        "date": 12,
+        "hash": "4125448207",
+        "name": "br_tex_01.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 1745103
+    },
+    {
+        "date": 1,
+        "hash": "1521206468",
+        "name": "br_tex_menu.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 10418
+    },
+    {
+        "date": 5,
+        "hash": "1595813852",
+        "name": "br_tex_interiors.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 356027
+    },
+    {
+        "date": 13,
+        "hash": "2282965289",
+        "name": "br_tex_acc_01.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 44076
+    },
+    {
+        "date": 2,
+        "hash": "2659935497",
+        "name": "br_tex_legacy_smp.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 231521
+    },
+    {
+        "date": 2,
+        "hash": "950498506",
+        "name": "br_tex_txd.etc2.zip",
+        "path": "files/texdb/",
+        "size": 4911356
+    },
+    {
+        "date": 2,
+        "hash": "2345070922",
+        "name": "br_tex_txd.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 138011
+    },
+    {
+        "date": 6,
+        "hash": "4192470061",
+        "name": "br_tex_gui.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 201343
+    },
+    {
+        "date": 5,
+        "hash": "2337006882",
+        "name": "br_tex_LOD_01.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 224467
+    },
+    {
+        "date": 6,
+        "hash": "1832515633",
+        "name": "br_radarmap.etc2.zip",
+        "path": "files/texdb/",
+        "size": 2336324
+    },
+    {
+        "date": 13,
+        "hash": "167909501",
+        "name": "br_tex_acc_01.etc2.zip",
+        "path": "files/texdb/",
+        "size": 6123897
+    },
+    {
+        "date": 5,
+        "hash": "2460826143",
+        "name": "br_tex_patent.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 91108
+    },
+    {
+        "date": 17,
+        "hash": "874466800",
+        "name": "br_tex_skins_01.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 620582
+    },
+    {
+        "date": 1,
+        "hash": "2365355010",
+        "name": "br_tex_generic.etc2.zip",
+        "path": "files/texdb/",
+        "size": 745134
+    },
+    {
+        "date": 1,
+        "hash": "643154958",
+        "name": "br_tex_generic.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 21830
+    },
+    {
+        "date": 2,
+        "hash": "3108794237",
+        "name": "br_tex_main.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 2130763
+    },
+    {
+        "date": 5,
+        "hash": "109133924",
+        "name": "br_tex_LOD_01.etc2.zip",
+        "path": "files/texdb/",
+        "size": 21891886
+    },
+    {
+        "date": 5,
+        "hash": "3585257329",
+        "name": "br_tex_patent.etc2.zip",
+        "path": "files/texdb/",
+        "size": 10302216
+    },
+    {
+        "date": 2,
+        "hash": "2950284070",
+        "name": "br_tex_legacy_smp.etc2.zip",
+        "path": "files/texdb/",
+        "size": 8210835
+    },
+    {
+        "date": 18,
+        "hash": "1890768273",
+        "name": "br_tex_cars_01.etc2.zip",
+        "path": "files/texdb/",
+        "size": 17700868
+    },
+    {
+        "date": 40,
+        "hash": "775698833",
+        "name": "br_tex_mobile.etc2.zip",
+        "path": "files/texdb/",
+        "size": 21322452
+    },
+    {
+        "date": 6,
+        "hash": "1952770649",
+        "name": "br_tex_gui.etc2.zip",
+        "path": "files/texdb/",
+        "size": 23899608
+    },
+    {
+        "date": 17,
+        "hash": "2204032866",
+        "name": "br_tex_skins_01.etc2.zip",
+        "path": "files/texdb/",
+        "size": 96954458
+    },
+    {
+        "date": 5,
+        "hash": "1159468855",
+        "name": "br_tex_interiors.etc2.zip",
+        "path": "files/texdb/",
+        "size": 129289085
+    },
+    {
+        "date": 12,
+        "hash": "3890871626",
+        "name": "br_tex_01.etc2.zip",
+        "path": "files/texdb/",
+        "size": 182371294
+    },
+    {
+        "date": 2,
+        "hash": "4072050121",
+        "name": "br_tex_main.etc2.zip",
+        "path": "files/texdb/",
+        "size": 147098221
+    },
+    {
+        "date": 6,
+        "hash": "3620455694",
+        "name": "br_hotfix.zip",
+        "path": "files/models/",
+        "size": 22
+    },
+    {
+        "date": 11,
+        "hash": "249864033",
+        "name": "br_tex_cars_01_nologo.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 225465
+    },
+    {
+        "date": 11,
+        "hash": "2479251565",
+        "name": "br_tex_cars_01_nologo.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 195272
+    },
+    {
+        "date": 11,
+        "hash": "446868966",
+        "name": "br_tex_cars_01_nologo.etc2.zip",
+        "path": "files/texdb/",
+        "size": 17097530
+    },
+    {
+        "date": 11,
+        "hash": "4143346437",
+        "name": "br_tex_cars_01_nologo.astc.zip",
+        "path": "files/texdb/",
+        "size": 21521241
+    },
+    {
+        "date": 12,
+        "hash": "2703132577",
+        "name": "br_cars_01_nologo.zip",
+        "path": "files/models/",
+        "size": 130436090
+    },
+    {
+        "date": 2,
+        "hash": "489017212",
+        "name": "br_tex_gui_nologo.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 229900
+    },
+    {
+        "date": 2,
+        "hash": "1628374307",
+        "name": "br_tex_gui_nologo.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 201147
+    },
+    {
+        "date": 2,
+        "hash": "2471357073",
+        "name": "br_tex_gui_nologo.etc2.zip",
+        "path": "files/texdb/",
+        "size": 23896857
+    },
+    {
+        "date": 2,
+        "hash": "2959862926",
+        "name": "br_tex_gui_nologo.astc.zip",
+        "path": "files/texdb/",
+        "size": 23877786
+    },
+    {
+        "date": 1,
+        "hash": "3955737059",
+        "name": "br_tex_mobile_hln.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 10504
+    },
+    {
+        "date": 1,
+        "hash": "1657162675",
+        "name": "br_tex_mobile_hln.astc.zip",
+        "path": "files/texdb/",
+        "size": 945034
+    },
+    {
+        "date": 1,
+        "hash": "3853606630",
+        "name": "br_tex_mobile_hln.etc2.zip",
+        "path": "files/texdb/",
+        "size": 945034
+    },
+    {
+        "date": 1,
+        "hash": "3153588269",
+        "name": "br_tex_mobile_hln.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 9117
+    },
+    {
+        "date": 2,
+        "hash": "241728887",
+        "name": "BRWinter.zip",
+        "path": "files/models/",
+        "size": 120522029
+    },
+    {
+        "date": 2,
+        "hash": "4000753767",
+        "name": "br_tex_winter.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 1009299
+    },
+    {
+        "date": 2,
+        "hash": "2277739336",
+        "name": "br_tex_winter.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 866403
+    },
+    {
+        "date": 2,
+        "hash": "1590200950",
+        "name": "br_tex_winter.etc2.zip",
+        "path": "files/texdb/",
+        "size": 96978625
+    },
+    {
+        "date": 2,
+        "hash": "443366150",
+        "name": "br_tex_winter.astc.zip",
+        "path": "files/texdb/",
+        "size": 113541691
+    },
+    {
+        "date": 2,
+        "hash": "1596356970",
+        "name": "br_event_ny.zip",
+        "path": "files/models/",
+        "size": 23880619
+    },
+    {
+        "date": 1,
+        "hash": "2608369403",
+        "name": "NewYear_tex.astc.zip.tmb",
+        "path": "files/texdb/",
+        "size": 64428
+    },
+    {
+        "date": 1,
+        "hash": "1730914252",
+        "name": "NewYear_tex.etc2.zip.tmb",
+        "path": "files/texdb/",
+        "size": 55809
+    },
+    {
+        "date": 1,
+        "hash": "860676576",
+        "name": "NewYear_tex.astc.zip",
+        "path": "files/texdb/",
+        "size": 17924868
+    },
+    {
+        "date": 1,
+        "hash": "3548296215",
+        "name": "NewYear_tex.etc2.zip",
+        "path": "files/texdb/",
+        "size": 17049718
+    }
+]
