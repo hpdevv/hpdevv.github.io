@@ -3,14 +3,14 @@
      "color": "FF0000",
      "dopname": "",
      "name": "HPDEV",
-     "online": 8
+     "online": 8,
      "maxonline": 1000
     },
     {
      "color": "FF0000",
      "dopname": "",
      "name": "HPDEV",
-     "online": 8
+     "online": 8,
      "maxonline": 1000
     }
 ]
