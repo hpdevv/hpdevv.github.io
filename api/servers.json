@@ -1,0 +1,20 @@
+[
+    {
+      "action": false,
+      "color": "FF0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "HPDEV",
+      "online": 2,
+      "сonnector": 0
+    },
+    {
+      "action": true,
+      "color": "FFFF00",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "YELLOW",
+      "online": 2,
+      "сonnector": 1
+    }
+]
