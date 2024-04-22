@@ -1,20 +1,9 @@
 [
     {
-      "action": false,
-      "color": "FF0000",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "HPDEV",
-      "online": 2,
-      "сonnector": 0
-    },
-    {
-      "action": true,
-      "color": "FFFF00",
-      "dopname": "(X2)",
-      "maxonline": 1000,
-      "name": "YELLOW",
-      "online": 2,
-      "сonnector": 1
+     "server_action": "activ",
+     "server_color": "#FF000/",
+     "server_name": "FUSS RUSSIA | HPDEV",
+     "server_online": 15,
+     "test_server": true
     }
 ]
